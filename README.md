@@ -111,12 +111,6 @@ _Jun 2023 – Aug 2023_
 
 <br><br>
 
-## 💖 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachichavan728&show_icons=true&theme=sakura&hide_border=true" alt="Prachi's GitHub Stats" width="48%"> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachichavan728&layout=compact&theme=sakura&hide_border=true" alt="Top Langs" width="48%">
-</p>
 
 <br><br>
 
