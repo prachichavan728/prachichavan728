@@ -22,7 +22,7 @@ Detail-oriented **Software Developer** with internship experience in software de
 ### 💼 Experience & Education
 * **Data Analytics Intern** @ KasNet Technologies *(Dec 2025 – Feb 2026)* — Azure, Power BI, Cloud Fundamentals.
 * **Software Engineer Intern** @ ProWorld Technologies *(Jun 2023 – Aug 2023)* — Software development & workflows.
-* **B.E. Computer Engineering** @ Savitribai Phule University *(2024 – 2027)*
+* **B.E. Electronic and Telecommunications** @ Savitribai Phule University *(2024 – 2027)*
 * **Diploma in Computer Engineering** @ GP Nandurbar *(2021 – 2024, 79.77%)*
 
 ---
